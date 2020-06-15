@@ -1,8 +1,8 @@
 #include "IRremote.h"
 int RECV_PIN = 11;
 int led1 = 2;
-#define code1 00000000 // ค่าปุ่มกดที่ 1
-#define code2 00000000 // ค่าปุ่มกดที่ 2
+#define code1 16753245 // ค่าปุ่มกดที่ 1
+#define code2 16736925 // ค่าปุ่มกดที่ 2
 IRrecv irrecv(RECV_PIN);
 decode_results results;
 void setup() {
