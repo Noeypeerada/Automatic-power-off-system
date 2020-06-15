@@ -22,4 +22,5 @@
 # โครงสร้างพื้นฐาน
 ![โครงสร้างพื้นฐาน](https://user-images.githubusercontent.com/61136772/84518864-85d02180-acfb-11ea-98b3-b6a7059ecea9.jpg)
 # ระบบการทำงาน
-![ระบบการทำงาน](https://user-images.githubusercontent.com/61136772/84518839-7e107d00-acfb-11ea-97be-7fca6c70ae89.jpg)
+![ระบบการทำงาน01](https://user-images.githubusercontent.com/61136772/84622177-91dbff00-af06-11ea-83a1-77489704c237.jpg)
+
