@@ -22,5 +22,6 @@
 # โครงสร้างพื้นฐาน
 ![โครงสร้างพื้นฐาน](https://user-images.githubusercontent.com/61136772/84518864-85d02180-acfb-11ea-98b3-b6a7059ecea9.jpg)
 # ระบบการทำงาน
-![ระบบการทำงาน01](https://user-images.githubusercontent.com/61136772/84622177-91dbff00-af06-11ea-83a1-77489704c237.jpg)
+![123](https://user-images.githubusercontent.com/61136772/84682889-87e6ea00-af60-11ea-8988-975bdaec2e58.jpg)
+
 
