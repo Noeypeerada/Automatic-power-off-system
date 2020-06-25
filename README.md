@@ -20,8 +20,7 @@
 - LED
 - LCD I2C Display
 # โครงสร้างพื้นฐาน
-![โครงสร้างพื้นฐาน](https://user-images.githubusercontent.com/61136772/84518864-85d02180-acfb-11ea-98b3-b6a7059ecea9.jpg)
+![โครงสร้าง01_bb](https://user-images.githubusercontent.com/61136772/85746875-fed66c80-b730-11ea-8ff8-a3b6e3a64e99.png)
 # ระบบการทำงาน
-![123](https://user-images.githubusercontent.com/61136772/84682889-87e6ea00-af60-11ea-8988-975bdaec2e58.jpg)
-
+![Copy of Basic Flowchart Example (3)](https://user-images.githubusercontent.com/61136772/85747050-24fc0c80-b731-11ea-8753-e6b97fd0d0e9.png)
 
